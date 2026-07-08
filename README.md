@@ -21,3 +21,10 @@ python rock_paper1.py
 
 ## Author
 Lavish Mittal
+## Screenshots
+
+### Gameplay 1
+![Gameplay 1](Screenshot%20(136).png)
+
+### Gameplay 2
+![Gameplay 2](Screenshot%20(137).png)
